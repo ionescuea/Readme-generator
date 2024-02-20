@@ -20,6 +20,7 @@ Then, the user should complete the prompts in the terminal whit the necessary in
 
 See below the image and the video:
 ![Readme](assets/readme-generator.jpg)
+
 ![Video](assets/Readme-video.mp4)
 
 ## Credits
