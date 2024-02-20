@@ -1,4 +1,4 @@
-# ddsfs
+# Readme Generator
 
 ## Table of Contents
 - [Description](#description)
@@ -10,23 +10,23 @@
 - [Questions](#questions)
 
 ## Description
-sdfsfs
+Command-line Readme generator
 
 ## Installation
-sfdfs
+Access link
 
 ## Usage
-sdfsfs
+When needed
 
 ## License
 MIT
 
 ## Contribution
-sfddfds
+N/A
 
 ## Test
-dsfsdf
+N/A
 
 ## Questions
-- [GitHub Profile](https://github.com/sfdsdf)
-- For additional questions, please reach out to sdfsf
+- [GitHub Profile](https://github.com/ionescuea)
+- For additional questions, please reach out to ionescuea@yahoo.com
